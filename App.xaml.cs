@@ -1,6 +1,8 @@
-﻿namespace HelloWorldMaui;
+﻿
 
-public partial class App : Application
+namespace HelloWorldMaui;
+
+public partial class App : Microsoft.Maui.Controls.Application
 {
 	public App()
 	{
